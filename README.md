@@ -1,4 +1,4 @@
-# 💬 Online Event App for iOS with Stream Chat and Dolby.io  [![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FGetStream%2Fonline-event-app-ios)](https://twitter.com/intent/tweet?text=Want%20to%20build%20an%20edtech%20virtual%20classroom%20app%20for%20iOS%20with%20video%20and%20chat%3F%20Learn%20how%3A&url=https%3A%2F%2Fgithub.com%2FGetStream%2Fonline-event-app-ios)
+# 💬 Online Event App for iOS with Stream Chat and Dolby.io  [![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FGetStream%2Fonline-event-app-ios)](https://twitter.com/intent/tweet?text=Want%20to%20build%20an%20online%20live%20event%20app%20for%20iOS%20with%20video%20and%20chat%3F%20Learn%20how%3A&url=https%3A%2F%2Fgithub.com%2FGetStream%2Fonline-event-app-ios)
 
 <img align="right" src="https://comingsoon" width="50%" />
 
