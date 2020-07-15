@@ -1,10 +1,10 @@
-# 💬 Online Event App for iOS with Stream Chat and Dolby.io  [![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FGetStream%2Fonline-event-app-ios)](https://twitter.com/intent/tweet?text=Want%20to%20build%20an%20online%20live%20event%20app%20for%20iOS%20with%20video%20and%20chat%3F%20Learn%20how%3A&url=https%3A%2F%2Fgithub.com%2FGetStream%2Fonline-event-app-ios)
+# 💬 Livestream Event App for iOS  [![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FGetStream%2Flivestream-event-app-ios)](https://twitter.com/intent/tweet?text=Want%20to%20build%20an%20online%20livestream%20event%20app%20for%20iOS%20with%20video%20and%20chat%3F%20Learn%20how%3A&url=https%3A%2F%2Fgithub.com%2FGetStream%2Fonline-event-app-ios)
 
 <img align="right" src="https://i.ibb.co/gj2GpvT/68747470733a2f2f692e696d6775722e636f6d2f457634636175612e706e67-1.png" width="50%" />
 
 ## 📚 Tutorial
 
-This repository contains the completed Xcode project following the [How to Build an iOS App for Online Events with Video and Chat](https://getstream.io/blog/live-online-event-ios/) tutorial. You should read it before trying to run this project as it contains it may contain useful information not present in this README.
+This repository contains the completed Xcode project following the [How to Build an iOS App for Livestream Events](https://getstream.io/blog/livestream-online-event-ios/) tutorial. You should read it before trying to run this project as it contains it may contain useful information not present in this README.
 
 ## ⚙️ Setup
 
