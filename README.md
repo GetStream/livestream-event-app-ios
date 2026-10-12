@@ -1,3 +1,5 @@
+> **This repository is archived and no longer maintained.** For a current alternative, see [the iOS livestreaming tutorial](https://getstream.io/video/sdk/ios/tutorial/livestreaming/).
+
 # 💬 Livestream Event App for iOS  [![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FGetStream%2Flivestream-event-app-ios)](https://twitter.com/intent/tweet?text=Want%20to%20build%20an%20online%20livestream%20event%20app%20for%20iOS%20with%20video%20and%20chat%3F%20Learn%20how%3A&url=https%3A%2F%2Fgithub.com%2FGetStream%2Fonline-event-app-ios)
 
 <img align="right" src="https://i.ibb.co/gj2GpvT/68747470733a2f2f692e696d6775722e636f6d2f457634636175612e706e67-1.png" width="50%" />
